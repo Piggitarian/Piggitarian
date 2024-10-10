@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Piggitarian
-- 👀 Just Started 
-- 🌱 learning basics 
-- starting of with Python
+meh 
